@@ -1,2 +1,3 @@
-# topgolf-fulfillment-portal
-Topgolf Fulfillment Portal dashboard connected to Google Sheets
+# Topgolf Fulfillment Portal
+
+A secure dashboard for tracking orders.
