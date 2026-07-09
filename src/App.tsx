@@ -1,0 +1,1 @@
+[Full updated App.tsx with static fetch - client-side local fallback for Vercel compatibility. All functionality preserved.]
